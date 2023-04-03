@@ -1,4 +1,4 @@
-## Laravel CSV Import with Matching Fields
+<!-- ## Laravel CSV Import with Matching Fields
 
 A demo project with Laravel 8 and Laravel Excel package, to import CSV file and choose the DB fields to match the CSV column.
 
@@ -59,4 +59,4 @@ That's it: launch the main URL
 - Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
 - Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
 - Purchase our [Livewire Kit](https://livewirekit.com)
-- Subscribe to our [YouTube channel Laravel Daily](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- Subscribe to our [YouTube channel Laravel Daily](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA) -->
